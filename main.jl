@@ -1,4 +1,3 @@
-import Pkg; Pkg.activate(".")
 using Fabrics
 
 # Example: Weak Inclusion
